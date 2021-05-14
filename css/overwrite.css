@@ -1,10 +1,19 @@
 #contenido01 {
-    background: url(../img/g6.jpg) no-repeat center center/cover !important;
+    background: url(../img/sd1.jpg) no-repeat center center/cover !important;
   }
 #contenido02 {
-    background: url(../img/s.jpg) no-repeat center center/cover !important;
+    background: url(../img/sd2.jpg) no-repeat center center/cover !important;
 }
 #contenido03 {
-    background: url(../img/s.jpg) no-repeat center center/cover !important;
+    background: url(../img/sd3.jpg) no-repeat center center/cover !important;
+}
+#logoFooter {
+    max-height: 1em;
+    
+}
+#logoFooter:hover {
+    /* filter: blur(2px); */
+    filter: hue-rotate(90deg);
+      
 }
 
